@@ -1,0 +1,27 @@
+{
+  "name": "steam-auto-accepter",
+  "version": "1.0.0",
+  "description": "Node script to automatically confirm all accepted Steam trade offers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "steam",
+    "accept",
+    "trades",
+    "offers",
+    "confirm",
+    "market",
+    "listings"
+  ],
+  "author": "UnuSec",
+  "license": "ISC",
+  "dependencies": {
+    "steam-totp": "^1.3.0",
+    "steam-tradeoffer-manager": "^1.22.0",
+    "steam-user": "^3.3.4",
+    "steamcommunity": "^3.19.6"
+  }
+}
