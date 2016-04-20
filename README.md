@@ -1,9 +1,9 @@
 # Steam Auto Confirm/Accept
 
 This script uses the node Steam modules created by Alexander Corn aka. [DoctorMcKay](https://github.com/DoctorMcKay), and it can:
-	- automatically confirm all market listings and accepted trade offers.
-	- accept all trades where the user doesn't loose items.
-	- put the user online, playing a specified game for card farming.
+	-automatically confirm all market listings and accepted trade offers
+	-accept all trades where the user doesn't loose items
+	-put the user online, playing a specified game for card farming
 
 To get this up and running check out the 
 [Wiki](https://github.com/unusec/steam-auto-accepter/wiki), 
